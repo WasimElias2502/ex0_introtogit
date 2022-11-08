@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Blue 
+Favorite food: Hamburger
+Favorite musician/band: wadea safi
+Favorite movie: gine with the wind
+Requested grade in the course: 100
